@@ -29,7 +29,7 @@ try {
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'flexideskthesis@gmail.com';
-    $mail->Password = 'dbav emiv inhy hqjb'; // App password
+    $mail->Password =  // App password
     $mail->SMTPSecure = 'tls';
     $mail->Port = 587;
 
